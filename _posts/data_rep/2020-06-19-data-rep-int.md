@@ -4,8 +4,6 @@ subtitle: "Data Representation - Integer"
 layout: post
 author: "Hux"
 header-style: text
-tags:
-  - 基础
 ---
 
 
