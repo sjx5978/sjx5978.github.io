@@ -1,5 +1,5 @@
 ---
-title:  "Deeplearning-学习笔记"
+title:  "Deeplearning-李宏毅-学习笔记"
 subtitle: "[1.Introduction]"
 layout: post
 header-style: text
